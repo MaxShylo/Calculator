@@ -1,5 +1,5 @@
 # Calculator
-Implementation of calculator using HTML/CSS/Javascript
+Developed basic calculator 
 
 Technologies: HTML/CSS/SCSS/BEM/JavaScrip
 
